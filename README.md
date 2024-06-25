@@ -40,7 +40,7 @@ Receba o tutorial completo para realizar a instalação por conta própria. O pa
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/superdjdeivid/instalador.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/superdjdeivid/instaladorpack.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
