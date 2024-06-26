@@ -45,7 +45,7 @@ sudo apt install -y git && git clone https://github.com/superdjdeivid/instalador
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd && cd ./install && sudo ./install_instancia
+cd instalador  && sudo ./install_primaria
 ```
 ## COMPRE AGORA
 
